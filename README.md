@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Coastony
+- 👀 I’m interested in developing my skills
+- 🌱 I’m currently learning HTML, CSS and JS
+- 📫 How to reach me sergiobsantos8@gmail.com
