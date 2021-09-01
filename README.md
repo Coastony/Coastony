@@ -1,4 +1,4 @@
-## Sérgio Bueno, Junior Developer
+## Junior Developer, 16 years old
 
 <div>
   <a href="https://github.com/Coastony">
