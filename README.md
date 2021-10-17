@@ -1,4 +1,4 @@
-## Junior Developer, 16 years old
+## Junior Developer, 16 
 
 <div>
   <a href="https://github.com/Coastony">
