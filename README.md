@@ -21,6 +21,11 @@
   
 <div style="display: inline_block"><br>
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
+</div>
+  
+## Libraries
+ 
+<div>
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
 </div>
   
