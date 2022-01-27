@@ -30,10 +30,16 @@
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
 </div>
   
+## Familiarity
+ 
+<div>
+  <img align="center" title="IONIC" alt="IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"/>
+</div>
+  
 ##
 
 <div>
   <a href="mailto:sergiobsantos8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sergiobsantos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
- 
+
