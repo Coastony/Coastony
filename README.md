@@ -36,6 +36,7 @@
 <div>
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" title="Chocolatey" alt="Chocolatey" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Chocolatey_icon.png"/>
   <img align="center" title="npm" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
   <img align="center" title="Yarn" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
   <img align="center" title="Babel" alt="Babel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>
