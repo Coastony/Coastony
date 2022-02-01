@@ -23,7 +23,7 @@
   
 <div style="display: inline_block"><br>
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
-   <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg""/>
+   <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 </div>
   
 ## Libraries
@@ -36,6 +36,7 @@
  
 <div>
   <img align="center" title="IONIC" alt="IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"/>
+  <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
   
 ##
