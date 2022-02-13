@@ -1,5 +1,10 @@
 ## Front-End Developer, 16 
 
+🧠 Experiente em HTML5, CSS3 e JavaScript <br>
+🚀 Estudando React <br>
+💻 Conhecimentos em Front-End e Back-End <br>
+<br>
+
 <div>
   <a href="https://github.com/Coastony">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Coastony&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
