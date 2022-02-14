@@ -1,8 +1,8 @@
 ## Front-End Developer, 16 
 
-### 🧠 Experiente em HTML5, CSS3 e JavaScript <br>
-### 🚀 Estudando React <br>
-### 💻 Conhecimentos em Front-End e Back-End <br>
+#### 🧠 Experiente em HTML5, CSS3 e JavaScript <br>
+#### 🚀 Estudando React <br>
+#### 💻 Conhecimentos em Front-End e Back-End <br>
 <br>
 
 <div>
