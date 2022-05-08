@@ -23,6 +23,8 @@
    <img align="center" title="C Sharp" alt="C Sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
    <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
    <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>  
+</div>
   
 ## Frameworks
   
@@ -36,7 +38,7 @@
  
 <div>
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" title="React Native" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
   
@@ -56,7 +58,12 @@
   <img align="center" title="webpack" alt="webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
   <img align="center" title="Android" alt="Android" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" title="Android Studio" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" title="Jet Brains" alt="Jet Brains" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>  
+  <img align="center" title="PyCharm" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+  <img align="center" title="Visual Studio" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+    <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
+  
   
 ##
 
