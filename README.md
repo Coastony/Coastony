@@ -4,7 +4,7 @@
 ### 💜 Aluno da Rocketseat<br>
 ### 🚀 Estudando Elixir<br>
 ### 💻 Conhecimentos em Front-End e Back-End - **Full Stack** <br>
-> Discord: #6967
+> Discord: #6769
 <br>
 
 <div>
