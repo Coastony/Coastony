@@ -1,8 +1,8 @@
-## Mobile Developer(Android), 17
+## Back-End Developer | Elixir, 17
 
 ### 🧠 Experiente em HTML5, CSS3, JavaScript e PHP<br>
 ### 💜 Aluno da Rocketseat<br>
-### 🚀 Estudando React Native<br>
+### 🚀 Estudando Elixir<br>
 ### 💻 Conhecimentos em Front-End e Back-End <br>
 <br>
 
