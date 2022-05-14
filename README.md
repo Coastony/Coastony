@@ -1,4 +1,4 @@
-## Back-End Developer | Elixir | Full Stack, 17
+## Student and Back-End Developer | Elixir | Full Stack, 17
 
 ### 🧠 Experiente em HTML5, CSS3, JavaScript e PHP<br>
 ### 💜 Aluno da Rocketseat<br>
