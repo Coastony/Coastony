@@ -1,4 +1,4 @@
-# Student | Software Engineer | Full Stack | Elixir, 17
+# Software Engineer | Full Stack | Elixir, 17
 
 🧠 Experiente em HTML5, CSS3, JavaScript e PHP<br>
 💜 Aluno da Rocketseat<br>
