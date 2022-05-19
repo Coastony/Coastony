@@ -1,4 +1,4 @@
-# Developer Full Stack | Elixir, 17
+# Full Stack Developer | Elixir, 17
 
 🧠 Experiente em **HTML5, CSS3, JavaScript e PHP**<br>
 💜 Aluno da Rocketseat<br>
