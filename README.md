@@ -2,7 +2,7 @@
 
 🧠 Experiente em **HTML5, CSS3, JavaScript e PHP**<br>
 💜 Aluno da Rocketseat<br>
-🚀 Estudando Elixir<br>
+🚀 Estudando Elixir e Python<br>
  💻 Conhecimentos em **Front-End e Back-End**<br>
 > Discord: #6769
 
