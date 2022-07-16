@@ -1,6 +1,6 @@
-# Full Stack Developer | Back-End, 17
+# Junior Full Stack Developer | Back-End, 17
 
-🧠 Experiente em **HTML5, CSS3, JavaScript e PHP**<br>
+🧠 Experiente em **HTML5, CSS3, JavaScript**<br>
 💜 Aluno da Rocketseat<br>
 🚀 Estudando ReactJS e Python<br>
  💻 Conhecimentos em **Front-End e Back-End**<br>
