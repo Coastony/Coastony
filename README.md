@@ -1,9 +1,9 @@
 # Junior Full Stack Developer | Back-End, 17
 
+<img align="right" width="250" src="https://user-images.githubusercontent.com/84647000/179434752-3244de03-8fa7-41e3-ad86-11ef7c4cf2f5.png"/>
+
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Sérgio Bueno and my nickname is "Coastony"!
-
-<img align="right" width="230" src="https://user-images.githubusercontent.com/84647000/179434752-3244de03-8fa7-41e3-ad86-11ef7c4cf2f5.png"/>
 
 - 🔭 In search of **_building the future_**
 - 💜 Student of @Rocketseat
@@ -35,7 +35,7 @@
    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>  
 </div>
 
-<img align="right" width="300" src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
+<img align="right" width="250" src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
   
 ### Frameworks
 <div style="display: inline_block">
@@ -76,7 +76,6 @@
   <img align="center" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img align="center" title="Azure" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 </div>
-  
   
 ##
 
