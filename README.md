@@ -5,12 +5,12 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Sérgio Bueno and my nickname is "Coastony"!
 
-- 🔭 In search of **_building the future_**
+- 🔭 In search of ***building the future***
 - 💜 Student of @Rocketseat
 - 🌱 I am currently learning **ReactJS and Python**
 - 💬 Ask me about **Front-End(HTML5, CSS3)** and **Back-End(JavaScript)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
-- ⚡ Fun fact: Just Program It!
+- ⚡ Fun fact: ***Just Program It!***
 > Discord: #6769
 
 <div>
