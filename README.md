@@ -1,9 +1,14 @@
 # Junior Full Stack Developer | Back-End, 17
 
-🧠 Experiente em **HTML5, CSS3, JavaScript**<br>
-💜 Aluno da Rocketseat<br>
-🚀 Estudando ReactJS e Python<br>
- 💻 Conhecimentos em **Front-End e Back-End**<br>
+## 👋 Hello! Welcome to my Github profile.
+### My name is Sérgio Bueno and my nickname is "Coastony"!
+
+- 🔭 In search of building the future
+- 💜 Student of @Rocketseat
+- 🌱 I am currently learning ReactJS and Python
+- 💬 Ask me about Front-End(HTML5, CSS3) and Back-End(JavaScript)
+- 📫 How to contact me: sergiobsantos8@gmail.com 
+- ⚡ Fun fact: Just Program It!
 > Discord: #6769
 
 <div>
@@ -11,7 +16,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Coastony&show_icons=true&theme=chartreuse-dark&include_all_comits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coastony&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
-  
+
+### Technologies
 <div style="display: inline_block"><br>
    <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
    <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -27,7 +33,7 @@
    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>  
 </div>
   
-## Frameworks
+### Frameworks
   
 <div style="display: inline_block"><br>
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
@@ -36,7 +42,7 @@
    <img align="center" title="Phoenix" alt="Phoenix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg"/>
 </div>
   
-## Libraries
+### Libraries
  
 <div style="display: inline_block">
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
@@ -44,7 +50,7 @@
   <img align="center" title="React Native" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
   
-## Familiarity
+### Familiarity
  
 <div style="display: inline_block">
   <img align="center" title="GitHub" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
