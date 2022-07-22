@@ -11,6 +11,8 @@
 - 💬 Ask me about **Front-End(HTML5, CSS3, ReactJS)** and **Back-End(JavaScript, PHP)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
 - ⚡ Fun fact: ***Just Program It!***
+- 📚 Knowledge in **Front-End, Back-End, Mobile and DevOps**
+
 > Discord: #6769
 
 <div>
