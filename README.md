@@ -83,6 +83,7 @@
 <div style="display: inline_block">
   <a href="mailto:sergiobsantos8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/sergiobsantos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.youtube.com/channel/UCmelZ5zyjK1SShVLKk1ap6w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
 
 ![Snake animation](https://github.com/Coastony/Coastony/blob/output/github-contribution-grid-snake.svg)
