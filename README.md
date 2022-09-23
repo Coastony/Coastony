@@ -1,4 +1,4 @@
-# Junior Full Stack Developer | Front-End, 17
+# Front-End Developer, 17
 
 <img align="right" width="250" src="https://user-images.githubusercontent.com/84647000/179434752-3244de03-8fa7-41e3-ad86-11ef7c4cf2f5.png"/>
 
@@ -8,10 +8,10 @@
 - 🔭 In search of ***building the future***
 - 💜 Student of @Rocketseat
 - 🌱 I am currently learning **ReactJS and Python**
-- 💬 Ask me about **Front-End(HTML5, CSS3, ReactJS)** and **Back-End(JavaScript, PHP)**
+- 💬 Ask me about **Front-End(HTML5, CSS3, ReactJS)** and **Back-End(JavaScript, Python)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
 - ⚡ Fun fact: ***Just Program It!***
-- 📚 Knowledge in **Front-End, Back-End, Mobile and DevOps**
+- 📚 Knowledge in **Front-End, Back-End**
 - 🎮 **@Coastony**
 
 > Discord: #6769
@@ -46,7 +46,6 @@
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
    <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
    <img align="center" title="Next.js" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
-   <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
    <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 </div>
 
@@ -54,7 +53,6 @@
 <div style="display: inline_block">
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
   <img align="center" title="ReactJS" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  <img align="center" title="React Native" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
   
 ### Familiarity
