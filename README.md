@@ -41,13 +41,13 @@
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>  
 </div>
 
-<img align="right" width="350" src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
+<img align="right" width="300" src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
   
 ### Frameworks
 <div style="display: inline_block">
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
    <img align="center" title="Next.js" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
-   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+   <img align="center" title="Spring Boot" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
    <img align="center" title="Nest.js" alt="Nest.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
 </div>
 
