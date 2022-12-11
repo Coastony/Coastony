@@ -77,6 +77,11 @@
   <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
   
+### Communities
+<div style="display: inline_block">
+  <img align="center" title="CodePen" alt="CodePen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/>
+</div>
+  
 ##
 
 <div style="display: inline_block">
