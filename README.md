@@ -41,7 +41,7 @@
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>  
 </div>
 
-<img align="right" width="350" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
+<img align="right" width="300" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
   
 ### Frameworks
 <div style="display: inline_block">
