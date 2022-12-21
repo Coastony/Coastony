@@ -41,7 +41,7 @@
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>  
 </div>
 
-<img align="right" width="300" src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif"/>
+<img align="right" width="350" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
   
 ### Frameworks
 <div style="display: inline_block">
@@ -78,11 +78,6 @@
   <img align="center" title="WordPress" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img align="center" title="JetBrains" alt="Jet Brains" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>  
   <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</div>
-  
-### Communities
-<div style="display: inline_block">
-  <img align="center" title="CodePen" alt="CodePen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/>
 </div>
   
 ##
