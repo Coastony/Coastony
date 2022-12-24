@@ -8,7 +8,7 @@
 - 🔭 In search of ***building the future***
 - 💜 Student of @Rocketseat
 - 🌱 I am currently learning **ReactJS and Java**
-- 💬 Ask me about **Front-End(HTML5, CSS3, ReactJS)** and **Back-End(JavaScript, Java)**
+- 💬 Ask me about **Front-End(HTML5, CSS3, ReactJS)** and **Back-End(JavaScript, Java, SQL)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
 - ⚡ **Fun fact:** Just Program It!
 - 📚 Knowledge in **Front-End, Back-End**
