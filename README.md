@@ -18,8 +18,8 @@
 
 <div>
   <a href="https://github.com/Coastony">
-  <img height="170em" width="100%" src="https://github-readme-stats.vercel.app/api?username=Coastony&show_icons=true&theme=chartreuse-dark&include_all_comits=true&count_private=true"/>
-<!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coastony&layout=compact&langs_count=16&theme=chartreuse-dark"/> -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Coastony&show_icons=true&theme=chartreuse-dark&include_all_comits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coastony&layout=compact&langs_count=16&theme=chartreuse-dark"/> 
 </div>
 
 ### Technologies
