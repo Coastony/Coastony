@@ -30,14 +30,16 @@
    <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
    <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-   <img align="center" title="Go" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+   <img align="center" title="Go" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
    <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
    <img align="center" title="CSharp" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
    <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
    <img align="center" title="Elixir" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"/>
+   <img align="center" title="Kotlin" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+   <img align="center" title="Swift" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
    <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>  
-   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>  
+   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 <img align="right" width="300" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
@@ -52,6 +54,11 @@
    <img align="center" title="VueJS" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
    <img align="center" title="NuxtJS" alt="NuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/>
    <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+   <img align="center" title="Phoenix" alt="Phoenix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg"/>
+   <img align="center" title="Django" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
+   <img align="center" title=".NET" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+   <img align="center" title="Electron" alt="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
+   <img align="center" title="Svelte" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/>
 </div>
 
 ### Libraries
@@ -59,12 +66,19 @@
   <img align="center" title="jQuery" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
   <img align="center" title="ReactJS" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" title="Tailwind CSS" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="center" title="Redux" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+  <img align="center" title="Pandas" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="center" title="NumPy" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 </div>
   
 ### Familiarity
 <div style="display: inline_block">
   <img align="center" title="Windows" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img align="center" title="Android" alt="Android" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+  <img align="center" title="Android Studio" alt="Android Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img align="center" title="Apple" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+  <img align="center" title="Linux" alt="Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" title="Apache" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
   <img align="center" title="GitHub" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img align="center" title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -80,6 +94,14 @@
   <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+  <img align="center" title="Firebase" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img align="center" title="Azure" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img align="center" title="Google Cloud" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img align="center" title="Heroku" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
+  <img align="center" title="Amazon Web Services" alt="Amazon Web Services" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img align="center" title="Ansible" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
+  <img align="center" title="ESLint" alt="ESLint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
+  <img align="center" title="TensorFlow" alt="TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 </div>
   
 ##
