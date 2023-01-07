@@ -84,7 +84,7 @@
   
 ##
 
-<div style="display: inline_block">
+<div style="display: inline_block; margin-bottom: 10px;">
   <a href="https://coastony.github.io/dev-Sergio-Bueno/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   <a href="mailto:sergiobsantos8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/sergiobsantos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
