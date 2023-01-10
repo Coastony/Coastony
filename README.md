@@ -135,4 +135,4 @@
 
 ##
 
-<!-- ![Snake animation](https://github.com/Coastony/Coastony/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Coastony/Coastony/blob/output/github-contribution-grid-snake.svg)
