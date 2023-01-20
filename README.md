@@ -41,6 +41,8 @@
    <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>  
    <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+   <img align="center" title="SQLite" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+  <img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 </div>
 
 <img align="right" width="300" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
