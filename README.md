@@ -11,16 +11,16 @@
 - 💬 Ask me about **Front-End(HTML5, CSS3, JavaScript, TypeScript, ReactJS)** and **Back-End(JavaScript, PHP, Java, SQL)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
 - ⚡ **Fun fact:** Just Program It!
-- 📚 Knowledge in **Front-End, Back-End**
+- 📚 Knowledge in **Front-End, Back-End, DevOps**
 - 🎮 **Games:** @Coastony
 
 > Discord: #6769
 
-<div>
+<!-- <div>
   <a href="https://github.com/Coastony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coastony&show_icons=true&theme=chartreuse-dark&include_all_comits=true&count_private=true"/>
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coastony&layout=compact&langs_count=16&theme=chartreuse-dark"/>  -->
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coastony&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div> -->
 
 ### Technologies
 <div style="display: inline_block">
