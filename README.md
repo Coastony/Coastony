@@ -7,11 +7,11 @@
 
 - 🔭 In search of ***building the future***
 - 💜 Student of @Rocketseat
-- 🌱 I am currently learning **ReactJS and Java**
-- 💬 Ask me about **Front-End(HTML5, CSS3, JavaScript, TypeScript, ReactJS)** and **Back-End(JavaScript, PHP, Java, SQL)**
+- 🌱 I am currently learning **ReactJS and PHP**
+- 💬 Ask me about **Front-End(HTML5, CSS3, JavaScript, TypeScript, ReactJS)** and **Back-End(JavaScript, PHP)**
 - 📫 How to contact me: sergiobsantos8@gmail.com 
 - ⚡ **Fun fact:** Just Program It!
-- 📚 Knowledge in **Front-End, Back-End, DevOps**
+- 📚 Knowledge in **Front-End, Back-End, DevOps, Data Science**
 - 🎮 **Games:** @Coastony
 
 > Discord: #6769
