@@ -18,7 +18,7 @@
 <a href="https://dev.to/coastony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="coastony" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sergiobsantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergiobsantos/" height="30" width="40" /></a>
 <a href="https://dribbble.com/coastony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="coastony" height="30" width="40" /></a>
-<a href="https://www.youtube.com/https://www.youtube.com/channel/UCmelZ5zyjK1SShVLKk1ap6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coastony" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmelZ5zyjK1SShVLKk1ap6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coastony" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sergiobsantos8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sergiobsantos8" height="30" width="40" /></a>
 </p>
 
