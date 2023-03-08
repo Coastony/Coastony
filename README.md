@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coastony&label=Profile%20views&color=0e75b6&style=flat" alt="coastony" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and PHP**
+- 🌱 I’m currently learning **ReactJS and NodeJS**
 
 - 💬 Ask me about **Front-End and Back-End**
 
