@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sérgio Bueno</h1>
-<h3 align="center">A passionate Full Stack Developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Brazil</h3>
 <img align="right" width="400" src="https://media.tenor.com/rzV4HD451jcAAAAd/thomas-shelby-annoyed.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coastony&label=Profile%20views&color=0e75b6&style=flat" alt="coastony" /> </p>
