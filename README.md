@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coastony&label=Profile%20views&color=0e75b6&style=flat" alt="coastony" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and C**
+- 🌱 I’m currently learning **ReactJS and Java**
 
-- 💬 Ask me about **Front-End and Back-End**
+- 💬 Ask me about **Front-End, Back-End, AWS and Cybersecurity**
 
 - 📫 How to reach me **sergiobsantos8@gmail.com**
 
