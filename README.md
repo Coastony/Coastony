@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Java**
 
-- 💬 Ask me about **Front-End, Back-End, AWS and Cybersecurity**
+- 💬 Ask me about **Front-End, Back-End, AWS**
 
 - 📫 How to reach me **sergiobsantos8@gmail.com**
 
