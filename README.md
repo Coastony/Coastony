@@ -23,7 +23,7 @@ Tenho 21 anos e estou em busca de crescimento profissional. Me interesso bastant
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 
