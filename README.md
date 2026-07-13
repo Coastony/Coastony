@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Sérgio Bueno
 
-**`Desenvolvedor Full Stack`**
+**`Full Stack Developer`**
 
 Tenho 21 anos e estou em busca de crescimento profissional. Me interesso bastante pela área de Tecnologia, especialmente em programação, e estou cursando Sistemas de Informação atualmente. Sou uma pessoa proativa e dedicada em minhas atividades. Quero fazer parte de uma empresa acolhedora que preza pela qualidade dos serviços e pela contribuição entre os funcionários. Acredito que minhas habilidades pessoais e técnicas contribuiriam muito para o crescimento de uma empresa, gosto de conhecer pessoas novas e estar em constante evolução todos os dias.
 
